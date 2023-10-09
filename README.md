@@ -10,4 +10,4 @@ Team Size: Solo
 
 Time taken: over the weekend
 
-Detailed documentation is uploaded onto my portfolio: bento.me/akshatnerella
+Detailed documentation is uploaded onto my portfolio: https://bento.me/akshatnerella
